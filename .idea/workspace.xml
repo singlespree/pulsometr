@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe1012c9-1dbc-4a7f-b5fb-125b83e8a48a" name="Changes" comment="add js scripts">
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_catalog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_feedback.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font.css" afterDir="false" />
+    <list default="true" id="fe1012c9-1dbc-4a7f-b5fb-125b83e8a48a" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/arrow_up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/jquery.inputmask.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/base/_animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_pageup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_benefits.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_benefits.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_consultation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_consultation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_forms.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,17 +43,21 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29NV2V6BmgUJbyrOp7udaUs5v5E" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/HTML_CSS/pulsometr&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
@@ -63,7 +76,13 @@
       <workItem from="1652953325666" duration="2106000" />
       <workItem from="1653035756745" duration="6874000" />
       <workItem from="1653121768720" duration="5879000" />
-      <workItem from="1653208177462" duration="3521000" />
+      <workItem from="1653208177462" duration="7663000" />
+      <workItem from="1653294303029" duration="4129000" />
+      <workItem from="1654009202992" duration="920000" />
+      <workItem from="1654064464934" duration="759000" />
+      <workItem from="1654150860261" duration="1942000" />
+      <workItem from="1654244847335" duration="4833000" />
+      <workItem from="1654330193581" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="add js scripts">
       <created>1652953711966</created>
@@ -72,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652953711966</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1653212632290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653212632290</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1653212665534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653212665534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +123,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add js scripts" />
-    <option name="LAST_COMMIT_MESSAGE" value="add js scripts" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
